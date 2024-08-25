@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background: rgb(0, 0, 29);
+}
+.container
+{
+    width: 21%;
+    height: 500px;
+    margin-top: 100px;
+    background: rgb(34, 32, 53);
+    border-radius: 10px;
+}
+.img1
+{
+    width: 90%;
+    height: 250px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+h4
+{
+    font-family: "Roboto", system-ui;
+    font-weight: 600;
+    font-style: normal;
+    color: #fff;
+    font-size: 17px;
+    word-spacing: 2px;
+    padding-right: 135px;
+    padding-top: 15px;
+}
+.p1
+{
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 23px;
+    word-spacing: 1px;
+    padding-right: 25px;
+    padding-top: 12px;
+    color: rgb(106, 123, 158);
+}
+span
+{
+    padding-right: 120px;
+}
+.p2
+{
+    color: #fff;
+    padding-right: 162px;
+    padding-top: 20px;
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-size: 15px;
+    font-style: normal;
+    color: rgb(152, 217, 242);
+}
+.img2
+{
+    margin-right: 260px;
+    position: relative;
+    bottom: 19px;
+}
+.p3
+{
+    color: #fff;
+    padding-left: 185px;
+    position: relative;
+    bottom: 40px;
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-size: 15px;
+    font-style: normal;
+    color: rgb(152, 217, 242);
+}
+.img3
+{
+   position: relative;
+   bottom: 58px;
+   left: 40px;
+}
+hr
+{
+    width: 90%;
+    height: 1px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    bottom: 35px;
+}
+.img4
+{
+    width: 28px;
+    height: 28px;
+    border-radius: 100%;
+    border: 2px solid #fff;
+    position: relative;
+    right: 123px;
+    bottom: 23px;
+}
+.p4
+{
+    color: #fff;
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    bottom: 52px;
+    right: 10px;
+}
